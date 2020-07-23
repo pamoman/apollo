@@ -15,7 +15,7 @@
             </div>
             <!-- Right side -->
             <div id="column-right" class="column column-right">
-                <h2>Right column</h2>
+                <h2>Right columns</h2>
             </div>
         </main>
     </body>
